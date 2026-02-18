@@ -1,5 +1,5 @@
 # pbl_project
-# Retail Inventory & Sales Intelligence System
+# Consumer Behaviour & Demand Forecasting System
 
 Role-based retail management platform with JWT auth, inventory, checkout, CSV ingestion, and analytics.
 
@@ -101,3 +101,32 @@ See [docs/API.md](docs/API.md) for full endpoint list and request/response shape
 - JWT for sessions; protected and role-checked routes
 - Input validation (express-validator)
 - Prepared statements for MySQL (SQL injection protection)
+
+
+## NEXT MODULES
+ 
+ ### CONSUMER BEHAVIOUR ANALYTICS 
+ - Customer Profiling & RFM analysis
+ - Customer Segmentation
+ - Behavioral Patterns
+
+### DEMAND FORECASTING 
+ - Product-level
+ - Category-level
+ - Store-level
+ - Region-level
+### INVENTORY & SUPPLY SIGNALS
+### MARKET BASKET & PRODUCT INSIGHTS
+### RECOMMENDATION ENGINE
+
+
+
+
+
+
+
+
+
+
+
+
